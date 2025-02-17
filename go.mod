@@ -1,3 +1,3 @@
-module learn-go-with-tests
+module learngowithtests
 
-go 1.23.6
+go 1.24.0
